@@ -1,7 +1,7 @@
 @import "normalize.css";
 
-* {
-    box-sizing: content-box;
+*, *::before, *::after {
+    box-sizing: border-box;
 }
 
 :root {
